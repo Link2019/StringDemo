@@ -1,0 +1,2 @@
+# StringDemo
+learn string method
